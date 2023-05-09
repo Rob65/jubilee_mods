@@ -1,6 +1,6 @@
-#Baby bullet modifications
+# Baby bullet modifications
 
-#orbiter tool plate
+# orbiter tool plate
 
 The orbiter tool plate is a modified version of the standard tool plate for the baby bullet.
 Instead of using 3D printed cups and threaded balls, this version uses regular (stainless) steel balls that are pressed into the cups in the aluminum plate
